@@ -33,3 +33,5 @@ console.log(isPowerofTwoOptimized(4));
 console.log(isPowerofTwoOptimized(100));
 console.log(isPowerofTwoOptimized(98));
 console.log(isPowerofTwoOptimized(45));
+
+//Big O -- O(1)
