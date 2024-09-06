@@ -12,3 +12,5 @@ console.log(fibonacci(10));
 console.log(fibonacci(45));
 console.log(fibonacci(98));
 console.log(fibonacci(10000));
+
+//Big O -- O(n)
